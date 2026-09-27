@@ -71,3 +71,5 @@ Follows a **Star Schema** design:
 2. Configure the data refresh schedule
 3. Assign user permissions
 4. Share the dashboard with stakeholders
+   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a70d3fca-0d83-45c1-af99-5b36121584db" />
+
